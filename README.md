@@ -17,7 +17,7 @@
 ### Pertemuan 5 - Latihan
 
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
-![latihan pertemuan 5](gambar/foto%201.png)
+![latihan pertemuan 5](gambar/foto1.png)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
 ``` python
@@ -99,7 +99,7 @@ Hasil dari output tersebut seperti berikut : <br>
 ### Pertemuan 6 - lab 1
 
 Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [source code lab 1](lab1.py)
-![Pertemmuan 6 - lab 1](gambar/foto%206.png)
+![Pertemmuan 6 - lab 1](gambar/foto6.png)
 ``` python
 #Penggunaan End
 print("A", end="")
