@@ -51,7 +51,7 @@ source code fiatas berfungsi untuk mencetak hasil / output berupa " **Masukan Na
 print(4646)
 ```
 <br>(Seperti gambar berikut ini <br>)
-![Output fungsi print](gambar/foto%202.png) <br>
+![Output fungsi print](gambar/foto2.png) <br>
 * Untuk source code berikutnya adalah inputan atau membuat variable. Seperti syntax dibawah ini:
 
 ``` python
@@ -61,7 +61,7 @@ Keterangan : <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
-![input](gambar/foto%203.png) <br>
+![input](gambar/foto3.png) <br>
 Pada gambar diatas, hasil dari inputan tersebut berwarna *putih* <br>
 * Untuk memasukan printah lain seperti *Nama, NIM, Tempat Lahir, Umur, No Telpon,* mengikuti perintah yang sama seperti memasukan *fullname* <br>
 
@@ -81,7 +81,7 @@ Keterangan :
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 
-![Output salam](gambar/foto%204.png)
+![Output salam](gambar/foto4.png)
 * Langkah terakhir menampilkan semua hasil dari inputan diatas. Dengan mengetikan source code berikut : <br>
 ``` python
 print "Let me introduce my self My name is",nama,"but you can call me",panggilan,
@@ -141,7 +141,7 @@ print("Y")
 print("Z")
 ```
 Hasil dari source code terseut seperti gambar di bawah ini: 
-![Output END](gambar/foto%207.png)
+![Output END](gambar/foto7.png)
 
 * Pengertian separaktor
 Sepaktor adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda sepasi <br><br>
@@ -171,7 +171,7 @@ print(w,x,y,z,sep="-----")
 ```
 
 Hasil dari syntax / source code diatas adalah seperti berikut iniL: <br>
-![Output Separator](gambar/foto%208.png)
+![Output Separator](gambar/foto8.png)
 <br>
 <br>
 <br>
@@ -180,7 +180,7 @@ Hasil dari syntax / source code diatas adalah seperti berikut iniL: <br>
 String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan pada source yang di berikan Dosen sebagai berikut : <br>
-![Lab 1-2](gambar/foto%209.png) <br> 
+![Lab 1-2](gambar/foto9.png) <br> 
 ``` python
 #Rizky
 # string format 1
@@ -237,11 +237,11 @@ print('{:<30}{:^30}{:>30}'.format('Kiri','Tengah','Kanan'))
 print('{:<30}{:^30}{:>30}'.format(12,34,56))
 ```
 Hasil dari source code contohdiatas akan muncul seperti ini : <br>
-![Output Alignment](gambar/foto%2012.png)
+![Output Alignment](gambar/foto12.png)
 <br>
 <br>
 Hasil string format 2 adalah : <br>
-![Output Alignment contoh 2](gambar/kanan%2013.png)
+![Output Alignment contoh 2](gambar/kanan13.png)
 <br>
 <br>
 
@@ -266,6 +266,6 @@ print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 <br>
 Hasil dari source / code diatas : <br>
 
-![Output source diatas](gambar/foto%2014.png)
+![Output source diatas](gambar/foto14.png)
 <br>
 <br>
